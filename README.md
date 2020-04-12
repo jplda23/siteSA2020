@@ -1,5 +1,3 @@
 # siteSA2020
-Código HTML para as páginas da SA
+Código HTML para o website estático do Evento Semana Aeroespacial 2020
 
-Têm o footer e a NavBar nos Usables
-Apenas vamos fazer versão em pt-pt e em en-gb
